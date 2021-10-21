@@ -16,7 +16,7 @@ recommonmark==0.4.0
 
 # Dependencies of Sphinx
 alabaster==0.7.12
-babel==2.5.3
+babel==2.9.1
 # Upgrading to the latest version of CommonMark breaks the
 # compatibility with recommonmark.  See
 # https://github.com/rtfd/recommonmark/issues/24
